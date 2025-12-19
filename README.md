@@ -68,18 +68,13 @@ Among high budget films:
 
 **Key Visualizations**
 
-Budget vs Revenue (log scale), split by era
+### Budget vs Revenue by Era
+![Budget vs Revenue](visuals/budget_vs_revenue_by_era.png)
 
-Budget Revenue correlation over time (with COVID highlighted)
+### High-Budget Failure Rate Over Time
+![Failure Rate](visuals/high_budget_failure_rate.png)
 
-Failure rate of high budget films by year
-
-ROI distribution by budget tier (trimmed for outliers)
-
-Risk vs Return scatter by genre (high budget films)
-
-Tip: You can add chart images by creating a visuals/ folder and embedding them like:
-
+### ROI Distribution by Budget Tier
 ![ROI by Budget Tier](visuals/roi_by_budget_tier.png)
 
 **Limitations**
