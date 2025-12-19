@@ -129,13 +129,6 @@ The notebook expects the key to be set as an environment variable:
 
 export TMDB_API_KEY="your_api_key_here"
 
-Repository Structure
-├── 01_analysis_tmdb_profitability.ipynb
-├── data/
-│   └── tmdb_movies_2015_2024_popularity_top.csv
-├── visuals/
-├── README.md
-
 Why This Project
 
 This project was designed to explore real world financial risk in a creative industry, combining API data collection, feature engineering, exploratory analysis, and data visualization to answer a contemporary business question.
